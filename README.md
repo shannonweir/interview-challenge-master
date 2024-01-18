@@ -15,7 +15,7 @@ exercise.
 
 ![alt text](https://github.com/shannonweir/interview-challenge-master/tree/main/data/outcome.png?raw=true)
 
-![Screenshot](https://github.com/shannonweir/interview-challenge-master/tree/main/data/outcome.png.png)
+![Screenshot](https://github.com/shannonweir/interview-challenge-master/tree/main/data/outcome2.png)
 
 
 
