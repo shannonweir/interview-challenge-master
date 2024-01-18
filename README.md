@@ -13,9 +13,9 @@ There are a couple of directories to note:
 See the `README` in either the `backend` or `frontend` directories for more information on that version of the 
 exercise.
 
-![alt text](https://github.com/shannonweir/interview-challenge-master/tree/main/data/outcome.png?raw=true)
+![Diagram](https://github.com/shannonweir/interview-challenge-master/tree/main/data/outcome.png?raw=true)
 
-![Screenshot](https://github.com/shannonweir/interview-challenge-master/tree/main/data/outcome2.png)
+![Nodes and Connectors](https://github.com/shannonweir/interview-challenge-master/tree/main/data/outcome2.png)
 
 
 
