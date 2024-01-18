@@ -13,7 +13,7 @@ There are a couple of directories to note:
 See the `README` in either the `backend` or `frontend` directories for more information on that version of the 
 exercise.
 
-## This is a view of the outcome of the project
+## This is a view of the outcome of the project challenge
 ### Frontend
 ![Diagram](https://github.com/shannonweir/interview-challenge-master/tree/main/data/outcome.png)
 
