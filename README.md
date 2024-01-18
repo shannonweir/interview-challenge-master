@@ -12,3 +12,12 @@ There are a couple of directories to note:
 
 See the `README` in either the `backend` or `frontend` directories for more information on that version of the 
 exercise.
+
+![alt text](https://github.com/shannonweir/interview-challenge-master/tree/main/data/outcome.png?raw=true)
+
+
+C:\Users\shannonweir\Desktop\test2\interview-challenge-home-assignment\interview-challenge-master\data\outcome.png
+https://github.com/shannonweir/interview-challenge-master/tree/main/data
+
+
+

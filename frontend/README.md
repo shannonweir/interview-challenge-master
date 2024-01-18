@@ -34,8 +34,3 @@ Use the `-prod` flag for a production build.
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-![alt text](https://github.com/shannonweir/interview-challenge-master/tree/main/data/outcome.png?raw=true)
-
-
-C:\Users\shannonweir\Desktop\test2\interview-challenge-home-assignment\interview-challenge-master\data\outcome.png
-https://github.com/shannonweir/interview-challenge-master/tree/main/data
