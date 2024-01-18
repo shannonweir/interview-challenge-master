@@ -14,11 +14,11 @@ See the `README` in either the `backend` or `frontend` directories for more info
 exercise.
 
 ## This is a view of the outcome of the project
-#Frontend
+### Frontend
 ![Diagram](https://github.com/shannonweir/interview-challenge-master/tree/main/data/outcome.png)
 
 ![Nodes and Connectors](https://github.com/shannonweir/interview-challenge-master/tree/main/data/outcome2.png)
 
-#Backend
+### Backend
 ![Processed JSON File](https://github.com/shannonweir/interview-challenge-master/tree/main/data/1-simple-process-202401181314-processed.json)
 
